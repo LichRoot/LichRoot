@@ -1,16 +1,38 @@
-## Hi there 👋
+![headingBg](https://github.com/h3h394/h3h394/blob/master/img/codeBg.jpg)
+
+I'm a hacker with a focus on Red Team operations, working to identify and exploit vulnerabilities to enhance security. Currently at the beginner level.
 
 
-**JustRosa/JustRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``
+{ name: Felipe, age: 21 }
+``
 
-Here are some ideas to get you started:
+My Knowledge:
+* Mitre ATT&CK
+* NIST
+* Network
+  * TCP?IP
+  * HTTP/HTTPS
+* ISO 27000
+* Linux / Windows / iOS
+* Linux / Windows / iOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Programming Languages:
+* Python
+* GoLang
+* Java / JavaScript
+* HTML5 and CSS
+* React and ReactNative
+* PHP
+* Shell
+* Assembly
 
+
+### Lets connect
+
+🎥 [Youtube][Youtube] / 📷 [Instagram][Instagram] / 👨‍👨‍👧‍👦 [Linkedin][Linkedin] / 🐧 [Discord][Discord]
+
+[Youtube]: https://www.youtube.com/channel/UC96PvOMv01j3XejwOlAZP
+[Instagram]: https://www.instagram.com/felps.rosa/
+[Linkedin]: https://www.linkedin.com/in/apenas-um-rosa/
+[Discord]: https://discord.gg/PP7K8Z
