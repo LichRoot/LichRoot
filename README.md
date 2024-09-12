@@ -15,6 +15,7 @@ My Knowledge:
   * HTTP/HTTPS
 * ISO 27000
 * Linux / Windows / iOS
+* Offensive Security
 * Vim
 
 Programming Languages:
