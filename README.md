@@ -15,7 +15,7 @@ My Knowledge:
   * HTTP/HTTPS
 * ISO 27000
 * Linux / Windows / iOS
-* Linux / Windows / iOS
+* Vim
 
 Programming Languages:
 * Python
