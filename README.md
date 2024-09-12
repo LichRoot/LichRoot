@@ -11,7 +11,7 @@ My Knowledge:
 * Mitre ATT&CK
 * NIST
 * Network
-  * TCP?IP
+  * TCP/IP
   * HTTP/HTTPS
 * ISO 27000
 * Linux / Windows / iOS
