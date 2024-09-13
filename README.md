@@ -33,7 +33,7 @@ Programming Languages:
 
 🎥 [Youtube][Youtube] / 📷 [Instagram][Instagram] / 👨‍👨‍👧‍👦 [Linkedin][Linkedin] / 🐧 [Discord][Discord]
 
-[Youtube]: https://www.youtube.com/channel/UC96PvOMv01j3XejwOlAZP
+[Youtube]: https://www.youtube.com/@Felpopito
 [Instagram]: https://www.instagram.com/felps.rosa/
 [Linkedin]: https://www.linkedin.com/in/apenas-um-rosa/
-[Discord]: https://discord.gg/PP7K8Z
+[Discord]: https://discord.gg/psycho_crow
