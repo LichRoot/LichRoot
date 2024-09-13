@@ -8,25 +8,25 @@ I'm a hacker with a focus on Red Team operations, working to identify and exploi
 ``
 
 My Knowledge:
-* Mitre ATT&CK
-* NIST
-* Network
-  * TCP/IP
-  * HTTP/HTTPS
-* ISO 27000
-* Linux / Windows / iOS
-* Offensive Security
-* Vim
+* Mitre ATT&CK ;
+* NIST;
+* Network:
+  * TCP/IP;
+  * HTTP/HTTPS.
+* ISO 27000;
+* Linux / Windows / iOS;
+* Offensive Security;
+* Vim.
 
 Programming Languages:
-* Python
-* GoLang
-* Java / JavaScript
-* HTML5 and CSS
-* React and ReactNative
-* PHP
-* Shell
-* Assembly
+* Python;
+* GoLang;
+* Java / JavaScript;
+* HTML5 and CSS;
+* React and ReactNative;
+* PHP;
+* Shell;
+* Assembly.
 
 
 ### Lets connect
