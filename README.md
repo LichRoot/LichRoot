@@ -28,6 +28,8 @@ Programming Languages:
 * Shell;
 * Assembly.
 
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/fcodex.png" width="300" />
+
 [![My favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustRosa&theme=merko&how_icons=true&exclude_repo=JustRosa.github.io,midnight-rev-github-pages)](https://github.com/midnight-rev/JustRosa/)
 
 ### Lets connect
