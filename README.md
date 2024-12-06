@@ -31,7 +31,7 @@ Programming Languages:
 
 <p align="center">
   <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/fcodex.png" width="300" alt="CyberDefenders Badge" />
-  <img src="https://tryhackme-badges.s3.amazonaws.com/f.codex.png" width="300" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/f.codex.png" alt="Your Image Badge" />
 </p>
 
 <p align="center">
