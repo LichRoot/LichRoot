@@ -30,17 +30,8 @@ Programming Languages:
 
 
 <p align="center">
-  <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/fcodex.png" width="300" alt="CyberDefenders Badge" />
-  <img src="https://tryhackme-badges.s3.amazonaws.com/f.codex.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Zerando.png" alt="Your Image Badge" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/midnight-rev/JustRosa/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustRosa&theme=merko&show_icons=true&exclude_repo=JustRosa.github.io,midnight-rev-github-pages" alt="My favorite languages" />
-  </a>
-</p>
-
-
 
 
 ### Lets connect
