@@ -30,7 +30,7 @@ Programming Languages:
 
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Zerando.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/LichRoot.png" alt="Your Image Badge" />
 </p>
 
 
